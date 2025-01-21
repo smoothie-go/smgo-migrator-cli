@@ -1,4 +1,4 @@
-module github.com/Hzqkii/smgo-migrator-cli
+module github.com/smoothie-go/smgo-migrator-cli
 
 go 1.23.4
 
